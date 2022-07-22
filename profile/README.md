@@ -1,4 +1,4 @@
-## We make the web better by crafting outstanding eCommerce websites and automation tools.
+# We make the web better by crafting outstanding eCommerce websites and automation tools.
 
 StuntCoders craftswoman and craftsman believe that digital transformation happens at the intersection of engineering and passion for development. Our team of engineers aims to make a better web with finely crafted eCommerce and automation, leveraging open source technologies like WordPress, Magento, Gatsby and React.
 
