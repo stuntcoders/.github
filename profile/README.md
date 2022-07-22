@@ -8,7 +8,7 @@ From delivering complex WooCommerce and Magento instances at scale to managing c
 * Marketplace Management: Sell your products on multiple channels and reach millions.
 * B2B eCommerce: Utilize our enterprise-grade B2B eCommerce platform for fashion companies.
 * eCommerce Development: From managed teams to custom development on demand.
-* Back-end web engineering: Ruby on Rails, Node.js, WordPress, GraphQL, and more
+* Back-end web engineering: Ruby on Rails, Node.js, WordPress, Magento and GraphQL.
 * Front-end web engineering: HTML/CSS, JavaScript, Gatsby, and React.
 
 
