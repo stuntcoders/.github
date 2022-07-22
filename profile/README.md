@@ -1,4 +1,5 @@
 # We make the web better by crafting outstanding eCommerce websites and automation tools.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge)](https://rs.linkedin.com/company/stuntcoders) [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/stuntcoders) [![Instagram](https://img.shields.io/badge/-Instagram-405DE6?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/stuntcoders)
 
 StuntCoders craftswomen and craftsmen believe that digital transformation happens at the intersection of engineering and passion for development. Our team of engineers aims to make a better web with finely crafted eCommerce and automation solutions, leveraging open source technologies like WordPress, Magento, Gatsby, and React.
 
