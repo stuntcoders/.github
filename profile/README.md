@@ -30,6 +30,11 @@ In order to regularly perform at the highest level possible, we have recognized 
 * [Install and use pre-commit hooks](https://pre-commit.com/)
 * [Use Git Flow braching model across team and projects](https://vimeo.com/16018419)
 
+### Principles We Live By
+
+* Ask for forgiveness, not permission.
+* Communicate in timely manner, make no surprises.
+
 ### Get In Touch
 <p align="center">
 <a href="https://stuntcoders.com/contact/"><img src="https://raw.githubusercontent.com/stuntcoders/.github/main/github-banner.png" width="850"/></a>
