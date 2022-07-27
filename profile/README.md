@@ -32,8 +32,27 @@ In order to regularly perform at the highest level possible, we have recognized 
 
 ### Principles We Live By
 
-* Ask for forgiveness, not permission.
-* Communicate in timely manner, make no surprises.
+* Ask for forgiveness, not permission[^1].
+* Suprise no one. Explanation: [No surprises explainer video](https://vm.tiktok.com/ZMNxTDNf2/).
+* Keep LeCollab clean (don’t let tasks stay open for too long).
+* Steadily add value, do not only respond to change requests.
+* When leaving messages, be specific: who, what, when. Do never let this be unclear to customer or teammate
+* Always leave things you used in same or better condition than found. This works for: tasks, documents, code, website, etc... as much as for desks, chairs, kitchen, glasses or toilet.
+* Keep in mind broken theory window!
+* Give feedback to your collegue when you notice it is needed. Don't be withrawn, sarcastic, or defensive.
+* Do not confront/attack. Express concernes and ask for estimates/suggestions.
+* Be kind.
+* Even if asked for advice or opinion, you might not be the person that should answer. Listen and ask.
+* Blame is not for failing, it is for not asking for help.
+* Be open about mistakes and errors you cause. To your team and to our customers.
+* Do not be passive in customer collaboration, consider every customers business a productive partnership.
+* **Compliment the effort, not the result.** (Result is perfect only because of the effort).
+* Avoid triangulation whenever possible (talk to the person directly instead of going to other person/boss).
+
+[^1]
+> Grace Hopper:
+> > That brings me to the most important piece of advice that I can give to all of you: if you've got a good idea, and it's a contribution, I want you to go ahead and DO IT. It is much easier to apologize than it is to get permission.
+
 
 ### Get In Touch
 <p align="center">
