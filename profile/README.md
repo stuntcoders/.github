@@ -28,26 +28,26 @@ In order to regularly perform at the highest level possible, we have recognized 
 * [Writing good commit messages](https://github.com/erlang/otp/wiki/Writing-good-commit-messages)
 * [Rules for keeping a changelog](https://keepachangelog.com/en/1.0.0/)
 * [Install and use pre-commit hooks](https://pre-commit.com/)
-* [Use Git Flow braching model across team and projects](https://vimeo.com/16018419)
+* [Use Git Flow branching model across team and projects](https://vimeo.com/16018419)
 
 ### Principles We Live By
 
 * Ask for forgiveness, not permission[^1].
-* Suprise no one. Explanation: [No surprises explainer video](https://vm.tiktok.com/ZMNxTDNf2/).
+* Surprise no one. Explanation: [No surprises explainer video](https://vm.tiktok.com/ZMNxTDNf2/).
 * Keep LeCollab clean (don’t let tasks stay open for too long).
 * Steadily add value, do not only respond to change requests.
 * When leaving messages, be specific: who, what, when. Do never let this be unclear to customer or teammate
-* Always leave things you used in same or better condition than found. This works for: tasks, documents, code, website, etc... as much as for desks, chairs, kitchen, glasses or toilet.
-* Keep in mind broken theory window!
-* Give feedback to your collegue when you notice it is needed. Don't be withrawn, sarcastic, or defensive.
-* Do not confront/attack. Express concernes and ask for estimates/suggestions.
+* Always leave things you used in the same or better condition than found. This works for: tasks, documents, code, website, etc... as much as for desks, chairs, kitchen, glasses or toilet.
+* Keep the broken window theory in mind!
+* Give feedback to your colleague when you notice it is needed. Don't be withdrawn, sarcastic, or defensive.
+* Do not confront/attack. Express concerns and ask for estimates/suggestions.
 * Be kind.
 * Even if asked for advice or opinion, you might not be the person that should answer. Listen and ask.
 * Blame is not for failing, it is for not asking for help.
 * Be open about mistakes and errors you cause. To your team and to our customers.
-* Do not be passive in customer collaboration, consider every customers business a productive partnership.
+* Do not be passive in customer collaboration, consider every customer's business a productive partnership.
 * **Compliment the effort, not the result.** (Result is perfect only because of the effort).
-* Avoid triangulation whenever possible (talk to the person directly instead of going to other person/boss).
+* Avoid triangulation whenever possible (talk to the person directly instead of going to another person/boss).
 
 [^1]
 > Grace Hopper:
